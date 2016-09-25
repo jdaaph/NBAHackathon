@@ -8,6 +8,10 @@ Chengyu Dai, Josh Shifman, Evan Chavis, Danny Vargovich
 Michgian Data Science Team, University of Michigan
 
 ## Results
+[NBViewer](https://nbviewer.jupyter.org/github/jdaaph/NBAHackathon/blob/master/voronoi.ipynb)
+
+Please check out our working code hosted in NBViewer!
+
 ![Original Voronoi Tessellation ](orig.png?raw=true "Title" =300x)
 
 ![Leave One Out Voronoi Tessellation ](take1out.png?raw=true "Title" =300x)
